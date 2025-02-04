@@ -12,4 +12,8 @@ Far cry 3
 and so on 
 This application doesnt need update for game files , game files will be directly updated and add it to list 
 
+
+
+still some bypasses which are over 100mb cant be uploaded so i uploaded on site 
+https://sites.google.com/view/bypassed-by-ahmed/home
 ![image](https://github.com/user-attachments/assets/69f6b1f2-a225-468b-8740-ddbc9f5bcb5c)
