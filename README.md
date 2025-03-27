@@ -11,6 +11,12 @@ This tool currently supports bypasses for the following games:
 - **Driver: San Francisco**
 - **Mad Max**
 - **Far Cry 3**
+- **Prince of Persia The Forhotten Sands Bypass**
+- **Deadpool**
+- **Assassins Creed IV Black Flag**
+- **Assassin's Creed® III**
+- **Assassin's Creed Unity**
+- **Assassin's Creed Rogue**
 - ...and more!
 
 ## Automatic Updates
