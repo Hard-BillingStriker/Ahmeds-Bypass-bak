@@ -24,4 +24,3 @@ No manual updates are required for game files. The game files will be updated au
 
 ---
 
-⚠ **Disclaimer:** This tool is provided as-is without any guarantees. Use it at your own risk.
